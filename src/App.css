@@ -1,12 +1,15 @@
 .App{
   width: 800px;
   height: 580px;
+  display: flex;
+  flex-direction: column;
 }
 .navbar{
   display: flex;
   align-items: center;
   height: 90px;
   padding: 30px 25px;
+  z-index: 2;
 }
 .navbar.dark { 
   background-color: #21222A;  
@@ -14,7 +17,8 @@
 
 .navbar.light {
   background-color: white;  
-  box-shadow: 0px 8px 10px -5px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 8px 10px -5px rgba(0, 0, 0, 1);
+
 }
 .nav--logo_text, .nav--title {
   margin: 0;
