@@ -2,6 +2,16 @@
 
 This project is a React application that implements a dark/light mode toggle feature.
 
+## ScreenShots
+
+<div align="center">
+  <img src='/src/Images/mainAppLight.png' alt='Main APP' />
+</div>
+
+<div align="center">
+  <img src='/src/Images/mainAppDark.png' alt='Main APP' />
+</div>
+
 ## Features
 
 - Dark mode: Enables a dark color scheme for the application.
