@@ -4,10 +4,12 @@ This project is a React application that implements a dark/light mode toggle fea
 
 ## ScreenShots
 
+### Light Mode
 <div align="center">
   <img src='/src/Images/mainAPPLight.png' alt='Main APP' />
 </div>
 
+### Dark Mode
 <div align="center">
   <img src='/src/Images/mainAPPDark.png' alt='Main APP' />
 </div>
